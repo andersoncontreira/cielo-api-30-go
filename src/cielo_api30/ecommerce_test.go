@@ -1,7 +1,7 @@
 package cielo_api30_test
 
 import (
-	"github.com/andersoncontreira/cielo_api30"
+	"cielo_api30"
 	"testing"
 )
 

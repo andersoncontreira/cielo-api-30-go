@@ -2,7 +2,7 @@ package cielo_api30_test
 
 import (
 	"fmt"
-	"github.com/andersoncontreira/cielo_api30"
+	"cielo_api30"
 	"testing"
 )
 
